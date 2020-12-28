@@ -1,3 +1,32 @@
+# Workspace Project
+
+
+The end of the course project, together with 4 other classmates,
+We created the web application where the you can post your annoncements letting the others know that you have the workspace for them to rent.
+
+
+![GitHub Logo](/home.png)
+
+Dashboard
+
+![GitHub Logo](/dashboard.png)
+
+Manage your post
+
+![GitHub Logo](/post.png)
+
+Reservetion and payment for workspace
+
+![GitHub Logo](/reserveration.png)
+
+Display the annoncement and add the comment if they want to
+
+![GitHub Logo](/show.png)
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
